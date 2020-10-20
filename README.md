@@ -1,6 +1,7 @@
 # Kombi-Kontrol
 Kombinizi / Klimanızı Uzaktan Kontrol Edin  <br>
-Alexa ,Google Asistan ile çalışır. <br>
+<h2>
+Alexa ,Google Asistan ile çalışır.</h2> <br>
 Programın Yaz ve Kış Modları Var.<br>
 Ayarlara gürmek İçin Üst Tab Çizgilere Tıklayınız. <br>
 Ayarlar Butonuna 2 Sniye basılı tutunuz.<br>
